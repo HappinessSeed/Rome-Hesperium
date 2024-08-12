@@ -9,6 +9,6 @@
 		"cost": 500,
 		"requiredTech": "Steel",
 		"requiredResource": "Iron",
-		"promotions": ["Magister Militum I", " Magister Militum II", "Magister Militum III", " Magister Militum IV", "Magister Militum V"], 
+		"uniques": ["Never appears as a Barbarian unit"], 
 	}
 ], 
