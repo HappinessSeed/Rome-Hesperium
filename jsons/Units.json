@@ -4,11 +4,11 @@
 		"unitType": "Melee",
 		"uniqueTo": "Hesperium",
 		"replaces": "Musketman",
-		"movement": 2,
+		"movement": 4,
 		"strength": 90,
 		"cost": 500,
 		"requiredTech": "Steel",
 		"requiredResource": "Iron",
-		"uniques": ["Never appears as a Barbarian unit"], 
-	}
-], 
+		"promotions": ["Magister Militum I", " Magister Militum II", "Magister Militum III", " Magister Militum IV", "Magister Militum V"]
+	},
+]
