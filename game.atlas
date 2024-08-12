@@ -1,0 +1,19 @@
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+UnitIcons/Magister Militum
+  rotate: false
+  xy: 420, 1388
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Hesperium
+  rotate: false
+  xy: 1868, 1904
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
