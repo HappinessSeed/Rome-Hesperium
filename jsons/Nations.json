@@ -31,7 +31,7 @@
 		"outerColor": [255,177,177],
 		"innerColor": [85,57,0],
      "uniqueName": "Foederati Conscription",
-     "uniques": ["When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [100]% chance>", "When defeating a [Military] unit, earn [10] Gold and recruit it <with [100]% chance>", "Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[Military] units gain the [Persian Immortal] promotion"]
+     "uniques": ["When defeating a [Barbarian] unit, earn [10] Gold and recruit it <with [100]% chance>", "When defeating a [Military] unit, earn [10] Gold and recruit it <with [100]% chance>", "Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[Military] units gain the [Survivalism I] promotion"]
      "uniqueText": "Recruit a defeated enemy unit into foederati. Gain 50% [Gold] every killed unit.",
   "cities": ["Ravenna","Rome","Mediolanum","Noviodunum","Syracuse","Carthago","Ariminum","Aquitania","Baetica",
 			"Dalmatia,","Etruria","Garamantes","Helvetii","Lusitania","Mauretania","Tingitana","Caesariensis","Noricum","Pannonia",
